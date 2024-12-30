@@ -1,2 +1,2 @@
-# NAME:
-# STUDENT ID:
+# NAME:soranath pormjak
+# STUDENT ID:670610786
